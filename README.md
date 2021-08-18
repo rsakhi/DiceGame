@@ -30,3 +30,6 @@ game Point m <Should be numeric and greater than equal to 10 >
 3) If Player got 1, then point will not be added to player score
 4) if Player got 2 or more consecutive 1's, then Player not allowed to role dice in next round
 
+## Console output snippet
+Output Snippet for 3 players for 15 game points
+[snippet](https://github.com/rsakhi/DiceGame/blob/main/output_log.logs)

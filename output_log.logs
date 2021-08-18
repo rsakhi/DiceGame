@@ -1,0 +1,86 @@
+➜  DiceGame git:(main) ✗ ruby game.rb
+Hello there
+Please enter number of players
+3
+Please enter final score
+15
+Dice Game is start with 3 players for point 15
+player_2 is rolling dice
+point scored is 3
+player_3 is rolling dice
+point scored is 2
+player_1 is rolling dice
+point scored is 6
+Congratulations!!! player_1 You got one more Chance to role the dice
+player_1 is rolling dice
+point scored is 6
+Congratulations!!! player_1 You got one more Chance to role the dice
+player_1 is rolling dice
+point scored is 6
+Congratulations!!! player_1 You Have reached game point
+--------------point table after round 1---------
+player_1: rank is 1 with point 18
+player_2: rank is 2 with point 3
+player_3: rank is 3 with point 2
+
+player_2 is rolling dice
+point scored is 4
+player_3 is rolling dice
+point scored is 2
+--------------point table after round 2---------
+player_1: rank is 1 with point 18
+player_2: rank is 2 with point 7
+player_3: rank is 3 with point 4
+
+player_2 is rolling dice
+point scored is 3
+player_3 is rolling dice
+point scored is 2
+--------------point table after round 3---------
+player_1: rank is 1 with point 18
+player_2: rank is 2 with point 10
+player_3: rank is 3 with point 6
+
+player_2 is rolling dice
+point scored is 4
+player_3 is rolling dice
+point scored is 2
+--------------point table after round 4---------
+player_1: rank is 1 with point 18
+player_2: rank is 2 with point 14
+player_3: rank is 3 with point 8
+
+player_2 is rolling dice
+point scored is 1
+oops!! You got 1, Try again in next round
+player_3 is rolling dice
+point scored is 4
+--------------point table after round 5---------
+player_1: rank is 1 with point 18
+player_2: rank is 2 with point 14
+player_3: rank is 3 with point 12
+
+player_2 is rolling dice
+point scored is 1
+oops!! You got 1 again, You can't role the dice in next round
+player_3 is rolling dice
+point scored is 4
+Congratulations!!! player_3 You Have reached game point
+--------------point table after round 6---------
+player_1: rank is 1 with point 18
+player_3: rank is 2 with point 16
+player_2: rank is 3 with point 14
+
+player_2 is rolling dice
+point scored is 3
+Congratulations!!! player_2 You Have reached game point
+--------------point table after round 7---------
+player_1: rank is 1 with point 18
+player_3: rank is 2 with point 16
+player_2: rank is 3 with point 17
+
+final result
+total number of rounds #{@rounds}
+winner is player_1
+Final Point table
+{"player_1"=>18, "player_3"=>16, "player_2"=>17}
